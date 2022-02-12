@@ -89,7 +89,7 @@ body{
     transform: translateX(75%);
 }
 .row .card:hover{
-    border: 1px solid #282828;
+    border: 2px solid red;
 }
 .del {
     position: relative;
